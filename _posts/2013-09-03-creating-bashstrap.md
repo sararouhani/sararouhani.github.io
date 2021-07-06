@@ -1,16 +1,16 @@
 ---
-title: 'Creating Bashstrap: bootstrap for your terminal'
-author: bazclark
+title: 'A novel approach for constrained optimization in graphical model'
+author: sara rouhani
 layout: post
-permalink: /creating-bashstrap/
+<!--permalink: /creating-bashstrap/
 dsq_thread_id:
   - 1681486643
 categories:
-  - Tech
+  - Tech->
 ---
 [Bashstrap][1] is a quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style.<!--more-->
 
-![bashstrap screenshot][2]
+<!--[bashstrap screenshot][2]-
 
 ## Feature list
 

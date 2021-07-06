@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Tech->
 ---
-[Bashstrap][1] is a quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style.<!--more-->
+<!--[Bashstrap][1] is a quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style.<!--more-->
 
 <!--[bashstrap screenshot][2]-
 

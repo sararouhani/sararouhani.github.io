@@ -1,7 +1,7 @@
 ---
 title: 'A novel approach for constrained optimization in graphical model'
 author: sara rouhani
-layout: post
+<!--layout: post
 <!--permalink: /creating-bashstrap/
 dsq_thread_id:
   - 1681486643

@@ -7,11 +7,11 @@ permalink: /about/
 
 # Hi There!
 
-<!--My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.
+<!--My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.-->
 
-![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
+<!--![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
 
-I love building things, but more than anything I enjoy helping other developers do what they love: writing code. If you're just starting out as a web developer and are looking to land your first serious web development work, this site is for you.
+<!--I love building things, but more than anything I enjoy helping other developers do what they love: writing code. If you're just starting out as a web developer and are looking to land your first serious web development work, this site is for you.
 
 The best place to start is with [my free newsletter]({{ site.baseurl }}/newsletter/) where I deliver articles twice per month that will help you get hired as a web developer.
 

@@ -7,7 +7,7 @@ permalink: /about/
 
 # Hi There!
 
-My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.
+<!--My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.
 
 ![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
 
